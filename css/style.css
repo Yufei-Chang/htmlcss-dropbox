@@ -1,5 +1,5 @@
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 * {
@@ -185,7 +185,7 @@ hr {
 }
 
 .cliccami {
-    margin-top: 50px;
+    margin-top: 70px;
     color: blue;
     text-decoration: underline;
     font-size: 0.5rem;
@@ -197,6 +197,10 @@ hr {
     height: 300px;
 }
 
+h4 {
+    font-weight: 800;
+}
+
 .contacs-col {
     font-size: 0.8rem;
     display: flex;
@@ -206,6 +210,7 @@ hr {
     color: white;
 }
 
-.footer-col {
-    gap: 20px;
+.mg-top {
+    font-weight: 400;
+    margin-top: 10px;
 }
